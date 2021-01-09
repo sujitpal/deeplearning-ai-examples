@@ -36,7 +36,7 @@ I also wanted to get familiar with [Pytorch-Lightning](https://www.pytorchlightn
 * [Time Series Prediction - RNN + Lightning](xl6_rnn.ipynb).
 
 ---
-Here are some experiments with Longformer as part of research for my talk on [Transformer Mods for Document Length Inputs](https://www2.slideshare.net/sujitpal/transformer-mods-for-document-length-inputs) for the #nlp-embeddings group on the [TWIML Slack Channel](twimlai.slack.com).
+Here are some experiments with Longformer as part of research for an internal talk I did on [Transformer Mods for Document Length Inputs](https://www2.slideshare.net/sujitpal/transformer-mods-for-document-length-inputs) (and also for the #nlp-embeddings group on the [TWIML Slack Channel](twimlai.slack.com)).
 
 * [Pretrained Longformer and Document Similarity](lf1_longformer_pretrained.ipynb).
 * [Fine-tuning Longformer for Sentiment Analysis](lf2_longformer_sentiment_training.ipynb).
