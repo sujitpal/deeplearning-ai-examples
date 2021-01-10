@@ -20,7 +20,7 @@ This repository started as a place to store Colab notebooks for a Coursera NLP S
   * [Multilabel Document classification with Longformer (fine-tuning)](04_04_longformer_multilabel.ipynb).
 
 ---
-Before I did that, though, I realized that I needed to learn Pytorch basics first, so I picked up an elementary Pytorch book (don't remember which unfortunately, and tried out some of the exercises with toy datasets I found here and there.
+Before I did that, though, I realized that I needed to learn Pytorch basics first, so I picked up an elementary Pytorch book (don't remember which unfortunately, it could be the [Practical Deep Learning with Pytorch](https://www.udemy.com/course/practical-deep-learning-with-pytorch/) course on Udemy, and tried out some of the exercises with toy datasets I found here and there.
 
 * [Introduction to Pytorch notebook](x1_intro.ipynb).
 * [Pytorch Building Blocks](x2_building_blocks.ipynb).
